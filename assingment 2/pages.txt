@@ -1,3 +1,0 @@
-URL00, 0.5: This page links to URL01, URL04, URL09, and URL08
-URL02, 0.6: This page links to URL05, URL04, URL04, and URL00
-URL06, 0.2: This page links to URL05, URL024, URL04, and URL00
