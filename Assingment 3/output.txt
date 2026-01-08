@@ -1,0 +1,8 @@
+FILE1.txt
+score : 8.777777777777777
+and : 6   to : 4   the : 4   emotional : 3   intelligence : 3   
+challenges  emotional  take  artificial  more  
+FILE2.txt
+score : 9.491803278688524
+to : 3   intelligence : 3   and : 3   face : 2   emotional : 2   
+creativity  moreover  communication  this  on  

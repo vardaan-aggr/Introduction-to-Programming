@@ -1,0 +1,783 @@
+ Sahil Goyal , ENTER , 5 , 10:10:57 
+ Sahil Goyal , EXIT , 3 , 10:15:45 
+ Sahil Goyal , ENTER , 5 , 10:21:36 
+ Sahil Goyal , EXIT , 3 , 10:33:57 
+ Sahil Goyal , ENTER , 3 , 10:46:02 
+ Sahil Goyal , EXIT , 5 , 10:51:38 
+ Sahil Goyal , ENTER , 3 , 10:54:16 
+ Sahil Goyal , EXIT , 5 , 10:56:19 
+ Sahil Goyal , ENTER , 5 , 10:59:54 
+ Sahil Goyal , EXIT , 5 , 11:10:03 
+ Sahil Goyal , ENTER , 1 , 11:11:25 
+ Sahil Goyal , EXIT , 5 , 11:16:03 
+ Sahil Goyal , ENTER , 3 , 11:23:17 
+ Sahil Goyal , EXIT , 3 , 11:43:20 
+ Sahil Goyal , ENTER , 3 , 11:45:42 
+ Sahil Goyal , EXIT , 5 , 11:51:59 
+ Sahil Goyal , ENTER , 3 , 11:53:28 
+ Sahil Goyal , EXIT , 1 , 11:55:10 
+ Bhavya Jain , ENTER , 1 , 10:00:59 
+ Bhavya Jain , EXIT , 5 , 10:01:20 
+ Bhavya Jain , ENTER , 5 , 10:17:17 
+ Bhavya Jain , EXIT , 1 , 10:19:32 
+ Bhavya Jain , ENTER , 5 , 10:28:27 
+ Bhavya Jain , EXIT , 5 , 10:38:49 
+ Bhavya Jain , ENTER , 3 , 10:51:15 
+ Bhavya Jain , EXIT , 5 , 10:55:53 
+ Bhavya Jain , ENTER , 1 , 11:03:34 
+ Bhavya Jain , EXIT , 5 , 11:08:13 
+ Bhavya Jain , ENTER , 1 , 11:37:15 
+ Bhavya Jain , EXIT , 5 , 11:44:04 
+ Bhavya Jain , ENTER , 1 , 11:44:48 
+ Bhavya Jain , EXIT , 1 , 11:47:34 
+ Bhavya Jain , ENTER , 5 , 11:51:51 
+ Bhavya Jain , EXIT , 1 , 11:52:27 
+ Bhavya Jain , ENTER , 3 , 11:55:17 
+ Thanmayee Matha , ENTER , 1 , 10:04:37 
+ Thanmayee Matha , EXIT , 1 , 10:04:58 
+ Thanmayee Matha , ENTER , 1 , 10:27:58 
+ Thanmayee Matha , EXIT , 1 , 10:39:53 
+ Thanmayee Matha , ENTER , 1 , 10:44:34 
+ Thanmayee Matha , EXIT , 3 , 10:47:05 
+ Thanmayee Matha , ENTER , 3 , 10:52:01 
+ Thanmayee Matha , EXIT , 3 , 11:02:29 
+ Thanmayee Matha , ENTER , 3 , 11:12:53 
+ Thanmayee Matha , EXIT , 5 , 11:21:06 
+ Thanmayee Matha , ENTER , 5 , 11:36:59 
+ Thanmayee Matha , EXIT , 5 , 11:38:34 
+ Thanmayee Matha , ENTER , 3 , 11:49:06 
+ Thanmayee Matha , EXIT , 3 , 11:49:07 
+ Thanmayee Matha , ENTER , 5 , 11:51:40 
+ Thanmayee Matha , EXIT , 1 , 11:59:16 
+ Khushdev Pandit , EXIT , 5 , 10:00:08 
+ Khushdev Pandit , ENTER , 1 , 10:01:04 
+ Khushdev Pandit , EXIT , 1 , 10:01:11 
+ Khushdev Pandit , ENTER , 5 , 10:01:19 
+ Khushdev Pandit , EXIT , 1 , 10:02:14 
+ Khushdev Pandit , ENTER , 3 , 10:02:31 
+ Khushdev Pandit , EXIT , 3 , 10:03:21 
+ Khushdev Pandit , ENTER , 1 , 10:03:25 
+ Khushdev Pandit , EXIT , 3 , 10:03:32 
+ Khushdev Pandit , ENTER , 1 , 10:05:12 
+ Khushdev Pandit , EXIT , 3 , 10:05:37 
+ Khushdev Pandit , ENTER , 1 , 10:05:37 
+ Khushdev Pandit , EXIT , 3 , 10:06:03 
+ Khushdev Pandit , ENTER , 1 , 10:06:23 
+ Khushdev Pandit , EXIT , 1 , 10:06:25 
+ Khushdev Pandit , ENTER , 1 , 10:06:39 
+ Khushdev Pandit , EXIT , 1 , 10:06:40 
+ Khushdev Pandit , ENTER , 3 , 10:06:46 
+ Khushdev Pandit , EXIT , 5 , 10:06:51 
+ Khushdev Pandit , ENTER , 1 , 10:07:22 
+ Khushdev Pandit , EXIT , 3 , 10:08:39 
+ Khushdev Pandit , ENTER , 5 , 10:10:05 
+ Khushdev Pandit , EXIT , 1 , 10:10:25 
+ Khushdev Pandit , ENTER , 5 , 10:11:12 
+ Khushdev Pandit , EXIT , 5 , 10:12:25 
+ Khushdev Pandit , ENTER , 5 , 10:12:38 
+ Khushdev Pandit , EXIT , 1 , 10:13:57 
+ Khushdev Pandit , ENTER , 5 , 10:14:30 
+ Khushdev Pandit , EXIT , 3 , 10:15:08 
+ Khushdev Pandit , ENTER , 3 , 10:15:42 
+ Khushdev Pandit , EXIT , 3 , 10:16:02 
+ Khushdev Pandit , ENTER , 1 , 10:16:12 
+ Khushdev Pandit , EXIT , 1 , 10:16:15 
+ Khushdev Pandit , ENTER , 5 , 10:17:30 
+ Khushdev Pandit , EXIT , 5 , 10:18:26 
+ Khushdev Pandit , ENTER , 1 , 10:18:34 
+ Khushdev Pandit , EXIT , 5 , 10:18:57 
+ Khushdev Pandit , ENTER , 5 , 10:20:37 
+ Khushdev Pandit , EXIT , 1 , 10:20:47 
+ Khushdev Pandit , ENTER , 1 , 10:21:13 
+ Khushdev Pandit , EXIT , 5 , 10:21:39 
+ Khushdev Pandit , ENTER , 5 , 10:22:08 
+ Khushdev Pandit , EXIT , 5 , 10:22:09 
+ Khushdev Pandit , ENTER , 5 , 10:22:44 
+ Khushdev Pandit , EXIT , 5 , 10:23:16 
+ Khushdev Pandit , ENTER , 3 , 10:23:24 
+ Khushdev Pandit , EXIT , 1 , 10:23:30 
+ Khushdev Pandit , ENTER , 3 , 10:24:17 
+ Khushdev Pandit , EXIT , 5 , 10:25:24 
+ Khushdev Pandit , ENTER , 3 , 10:26:28 
+ Khushdev Pandit , EXIT , 5 , 10:26:43 
+ Khushdev Pandit , ENTER , 1 , 10:26:50 
+ Khushdev Pandit , EXIT , 1 , 10:26:51 
+ Khushdev Pandit , ENTER , 3 , 10:27:31 
+ Khushdev Pandit , EXIT , 3 , 10:27:35 
+ Khushdev Pandit , ENTER , 5 , 10:28:07 
+ Khushdev Pandit , EXIT , 5 , 10:28:16 
+ Khushdev Pandit , ENTER , 3 , 10:29:25 
+ Khushdev Pandit , EXIT , 3 , 10:29:55 
+ Khushdev Pandit , ENTER , 3 , 10:29:56 
+ Khushdev Pandit , EXIT , 3 , 10:30:37 
+ Khushdev Pandit , ENTER , 1 , 10:30:39 
+ Khushdev Pandit , EXIT , 1 , 10:31:24 
+ Khushdev Pandit , ENTER , 5 , 10:32:19 
+ Khushdev Pandit , EXIT , 5 , 10:35:04 
+ Khushdev Pandit , ENTER , 1 , 10:35:31 
+ Khushdev Pandit , EXIT , 1 , 10:36:02 
+ Khushdev Pandit , ENTER , 5 , 10:36:39 
+ Khushdev Pandit , EXIT , 3 , 10:36:39 
+ Khushdev Pandit , ENTER , 5 , 10:37:28 
+ Khushdev Pandit , EXIT , 3 , 10:37:29 
+ Khushdev Pandit , ENTER , 3 , 10:37:42 
+ Khushdev Pandit , EXIT , 1 , 10:37:53 
+ Khushdev Pandit , ENTER , 5 , 10:38:10 
+ Khushdev Pandit , EXIT , 1 , 10:38:14 
+ Khushdev Pandit , ENTER , 3 , 10:38:16 
+ Khushdev Pandit , EXIT , 5 , 10:38:36 
+ Khushdev Pandit , ENTER , 1 , 10:39:11 
+ Khushdev Pandit , EXIT , 1 , 10:39:33 
+ Khushdev Pandit , ENTER , 5 , 10:39:37 
+ Khushdev Pandit , EXIT , 5 , 10:39:57 
+ Khushdev Pandit , ENTER , 1 , 10:40:17 
+ Khushdev Pandit , EXIT , 5 , 10:41:36 
+ Khushdev Pandit , ENTER , 3 , 10:42:11 
+ Khushdev Pandit , EXIT , 1 , 10:42:16 
+ Khushdev Pandit , ENTER , 1 , 10:42:55 
+ Khushdev Pandit , EXIT , 3 , 10:43:46 
+ Khushdev Pandit , ENTER , 1 , 10:44:01 
+ Khushdev Pandit , EXIT , 1 , 10:44:17 
+ Khushdev Pandit , ENTER , 1 , 10:44:29 
+ Khushdev Pandit , EXIT , 3 , 10:45:36 
+ Khushdev Pandit , ENTER , 5 , 10:46:20 
+ Khushdev Pandit , EXIT , 5 , 10:47:55 
+ Khushdev Pandit , ENTER , 1 , 10:48:05 
+ Khushdev Pandit , EXIT , 1 , 10:48:08 
+ Khushdev Pandit , ENTER , 5 , 10:48:34 
+ Khushdev Pandit , EXIT , 3 , 10:48:49 
+ Khushdev Pandit , ENTER , 1 , 10:50:15 
+ Khushdev Pandit , EXIT , 3 , 10:51:02 
+ Khushdev Pandit , ENTER , 1 , 10:51:19 
+ Khushdev Pandit , EXIT , 5 , 10:51:20 
+ Khushdev Pandit , ENTER , 1 , 10:52:14 
+ Khushdev Pandit , EXIT , 5 , 10:52:18 
+ Khushdev Pandit , ENTER , 1 , 10:52:24 
+ Khushdev Pandit , EXIT , 5 , 10:52:52 
+ Khushdev Pandit , ENTER , 3 , 10:53:00 
+ Khushdev Pandit , EXIT , 3 , 10:53:04 
+ Khushdev Pandit , ENTER , 5 , 10:53:33 
+ Khushdev Pandit , EXIT , 5 , 10:53:35 
+ Khushdev Pandit , ENTER , 3 , 10:54:34 
+ Khushdev Pandit , EXIT , 5 , 10:54:57 
+ Khushdev Pandit , ENTER , 1 , 10:56:27 
+ Khushdev Pandit , EXIT , 1 , 10:57:13 
+ Khushdev Pandit , ENTER , 5 , 10:57:46 
+ Khushdev Pandit , EXIT , 1 , 10:58:23 
+ Khushdev Pandit , ENTER , 5 , 11:00:08 
+ Khushdev Pandit , EXIT , 1 , 11:00:29 
+ Khushdev Pandit , ENTER , 1 , 11:01:18 
+ Khushdev Pandit , EXIT , 3 , 11:03:05 
+ Khushdev Pandit , ENTER , 3 , 11:03:09 
+ Khushdev Pandit , EXIT , 3 , 11:03:56 
+ Khushdev Pandit , ENTER , 3 , 11:04:20 
+ Khushdev Pandit , EXIT , 5 , 11:06:54 
+ Khushdev Pandit , ENTER , 5 , 11:07:06 
+ Khushdev Pandit , EXIT , 3 , 11:08:13 
+ Khushdev Pandit , ENTER , 3 , 11:09:03 
+ Khushdev Pandit , EXIT , 5 , 11:09:06 
+ Khushdev Pandit , ENTER , 5 , 11:09:25 
+ Khushdev Pandit , EXIT , 3 , 11:09:50 
+ Khushdev Pandit , ENTER , 3 , 11:10:13 
+ Khushdev Pandit , EXIT , 1 , 11:10:55 
+ Khushdev Pandit , ENTER , 1 , 11:11:02 
+ Khushdev Pandit , EXIT , 3 , 11:11:06 
+ Khushdev Pandit , ENTER , 1 , 11:11:21 
+ Khushdev Pandit , EXIT , 5 , 11:11:33 
+ Khushdev Pandit , ENTER , 5 , 11:12:55 
+ Khushdev Pandit , EXIT , 3 , 11:13:18 
+ Khushdev Pandit , ENTER , 1 , 11:13:18 
+ Khushdev Pandit , EXIT , 5 , 11:14:37 
+ Khushdev Pandit , ENTER , 1 , 11:14:38 
+ Khushdev Pandit , EXIT , 5 , 11:15:21 
+ Khushdev Pandit , ENTER , 1 , 11:15:49 
+ Khushdev Pandit , EXIT , 3 , 11:16:07 
+ Khushdev Pandit , ENTER , 5 , 11:16:08 
+ Khushdev Pandit , EXIT , 1 , 11:16:16 
+ Khushdev Pandit , ENTER , 3 , 11:17:02 
+ Khushdev Pandit , EXIT , 1 , 11:17:21 
+ Khushdev Pandit , ENTER , 1 , 11:18:57 
+ Khushdev Pandit , EXIT , 3 , 11:19:20 
+ Khushdev Pandit , ENTER , 5 , 11:19:20 
+ Khushdev Pandit , EXIT , 1 , 11:19:33 
+ Khushdev Pandit , ENTER , 5 , 11:19:44 
+ Khushdev Pandit , EXIT , 3 , 11:19:52 
+ Khushdev Pandit , ENTER , 5 , 11:20:19 
+ Khushdev Pandit , EXIT , 3 , 11:20:55 
+ Khushdev Pandit , ENTER , 5 , 11:20:58 
+ Khushdev Pandit , EXIT , 5 , 11:21:16 
+ Khushdev Pandit , ENTER , 1 , 11:21:19 
+ Khushdev Pandit , EXIT , 5 , 11:21:30 
+ Khushdev Pandit , ENTER , 3 , 11:22:10 
+ Khushdev Pandit , EXIT , 5 , 11:22:42 
+ Khushdev Pandit , ENTER , 3 , 11:22:50 
+ Khushdev Pandit , EXIT , 5 , 11:23:34 
+ Khushdev Pandit , ENTER , 1 , 11:24:10 
+ Khushdev Pandit , EXIT , 1 , 11:24:22 
+ Khushdev Pandit , ENTER , 3 , 11:24:42 
+ Khushdev Pandit , EXIT , 5 , 11:26:01 
+ Khushdev Pandit , ENTER , 3 , 11:26:21 
+ Khushdev Pandit , EXIT , 1 , 11:26:38 
+ Khushdev Pandit , ENTER , 3 , 11:27:21 
+ Khushdev Pandit , EXIT , 5 , 11:27:41 
+ Khushdev Pandit , ENTER , 5 , 11:27:55 
+ Khushdev Pandit , EXIT , 1 , 11:28:05 
+ Khushdev Pandit , ENTER , 3 , 11:28:12 
+ Khushdev Pandit , EXIT , 5 , 11:29:19 
+ Khushdev Pandit , ENTER , 5 , 11:29:20 
+ Khushdev Pandit , EXIT , 5 , 11:30:12 
+ Khushdev Pandit , ENTER , 3 , 11:30:17 
+ Khushdev Pandit , EXIT , 1 , 11:30:42 
+ Khushdev Pandit , ENTER , 3 , 11:30:58 
+ Khushdev Pandit , EXIT , 3 , 11:34:11 
+ Khushdev Pandit , ENTER , 3 , 11:35:08 
+ Khushdev Pandit , EXIT , 5 , 11:35:28 
+ Khushdev Pandit , ENTER , 3 , 11:36:16 
+ Khushdev Pandit , EXIT , 1 , 11:36:50 
+ Khushdev Pandit , ENTER , 1 , 11:37:27 
+ Khushdev Pandit , EXIT , 5 , 11:37:32 
+ Khushdev Pandit , ENTER , 1 , 11:37:55 
+ Khushdev Pandit , EXIT , 5 , 11:38:00 
+ Khushdev Pandit , ENTER , 3 , 11:38:26 
+ Khushdev Pandit , EXIT , 5 , 11:38:45 
+ Khushdev Pandit , ENTER , 3 , 11:38:51 
+ Khushdev Pandit , EXIT , 3 , 11:39:14 
+ Khushdev Pandit , ENTER , 3 , 11:40:05 
+ Khushdev Pandit , EXIT , 3 , 11:40:20 
+ Khushdev Pandit , ENTER , 1 , 11:40:22 
+ Khushdev Pandit , EXIT , 5 , 11:40:38 
+ Khushdev Pandit , ENTER , 1 , 11:40:43 
+ Khushdev Pandit , EXIT , 3 , 11:40:56 
+ Khushdev Pandit , ENTER , 1 , 11:41:36 
+ Khushdev Pandit , EXIT , 1 , 11:42:08 
+ Khushdev Pandit , ENTER , 5 , 11:43:16 
+ Khushdev Pandit , EXIT , 5 , 11:43:18 
+ Khushdev Pandit , ENTER , 3 , 11:43:26 
+ Khushdev Pandit , EXIT , 3 , 11:43:52 
+ Khushdev Pandit , ENTER , 3 , 11:44:24 
+ Khushdev Pandit , EXIT , 5 , 11:44:50 
+ Khushdev Pandit , ENTER , 3 , 11:45:23 
+ Khushdev Pandit , EXIT , 1 , 11:45:26 
+ Khushdev Pandit , ENTER , 3 , 11:45:32 
+ Khushdev Pandit , EXIT , 1 , 11:45:44 
+ Khushdev Pandit , ENTER , 5 , 11:46:00 
+ Khushdev Pandit , EXIT , 3 , 11:46:04 
+ Khushdev Pandit , ENTER , 1 , 11:46:41 
+ Khushdev Pandit , EXIT , 5 , 11:46:44 
+ Khushdev Pandit , ENTER , 5 , 11:47:04 
+ Khushdev Pandit , EXIT , 5 , 11:47:29 
+ Khushdev Pandit , ENTER , 5 , 11:47:40 
+ Khushdev Pandit , EXIT , 1 , 11:47:43 
+ Khushdev Pandit , ENTER , 1 , 11:48:46 
+ Khushdev Pandit , EXIT , 1 , 11:49:29 
+ Khushdev Pandit , ENTER , 1 , 11:50:47 
+ Khushdev Pandit , EXIT , 3 , 11:52:09 
+ Khushdev Pandit , ENTER , 1 , 11:52:33 
+ Khushdev Pandit , EXIT , 5 , 11:52:35 
+ Khushdev Pandit , ENTER , 3 , 11:53:16 
+ Khushdev Pandit , EXIT , 3 , 11:53:35 
+ Khushdev Pandit , ENTER , 5 , 11:53:39 
+ Khushdev Pandit , EXIT , 5 , 11:53:56 
+ Khushdev Pandit , ENTER , 1 , 11:53:59 
+ Khushdev Pandit , EXIT , 5 , 11:54:35 
+ Khushdev Pandit , ENTER , 1 , 11:54:54 
+ Khushdev Pandit , EXIT , 1 , 11:55:03 
+ Khushdev Pandit , ENTER , 1 , 11:55:12 
+ Khushdev Pandit , EXIT , 3 , 11:55:44 
+ Khushdev Pandit , ENTER , 5 , 11:55:49 
+ Khushdev Pandit , EXIT , 1 , 11:56:20 
+ Khushdev Pandit , ENTER , 5 , 11:57:07 
+ Khushdev Pandit , EXIT , 3 , 11:57:51 
+ Khushdev Pandit , ENTER , 5 , 11:58:52 
+ Khushdev Pandit , EXIT , 3 , 11:59:59 
+ Rohan Dhar , EXIT , 5 , 10:04:44 
+ Rohan Dhar , ENTER , 5 , 10:11:22 
+ Rohan Dhar , EXIT , 1 , 10:30:05 
+ Rohan Dhar , ENTER , 3 , 10:39:24 
+ Rohan Dhar , EXIT , 3 , 10:48:33 
+ Rohan Dhar , ENTER , 1 , 11:00:52 
+ Rohan Dhar , EXIT , 3 , 11:03:25 
+ Rohan Dhar , ENTER , 5 , 11:10:30 
+ Rohan Dhar , EXIT , 1 , 11:21:20 
+ Rohan Dhar , ENTER , 5 , 11:28:47 
+ Rohan Dhar , EXIT , 3 , 11:31:03 
+ Rohan Dhar , ENTER , 1 , 11:33:48 
+ Rohan Dhar , EXIT , 3 , 11:37:02 
+ Rohan Dhar , ENTER , 5 , 11:40:35 
+ Rohan Dhar , EXIT , 1 , 11:48:15 
+ Rohan Dhar , ENTER , 5 , 11:51:05 
+ Rohan Dhar , EXIT , 5 , 11:54:41 
+ Bharat Goyal , EXIT , 5 , 10:00:29 
+ Bharat Goyal , ENTER , 5 , 10:08:36 
+ Bharat Goyal , EXIT , 5 , 10:14:52 
+ Bharat Goyal , ENTER , 5 , 10:24:11 
+ Bharat Goyal , EXIT , 1 , 10:26:45 
+ Bharat Goyal , ENTER , 5 , 10:27:02 
+ Bharat Goyal , EXIT , 1 , 10:38:36 
+ Bharat Goyal , ENTER , 3 , 10:50:56 
+ Bharat Goyal , EXIT , 3 , 10:58:22 
+ Bharat Goyal , ENTER , 5 , 11:00:57 
+ Bharat Goyal , EXIT , 1 , 11:13:01 
+ Bharat Goyal , ENTER , 5 , 11:26:32 
+ Bharat Goyal , EXIT , 1 , 11:36:05 
+ Bharat Goyal , ENTER , 3 , 11:40:58 
+ Bharat Goyal , EXIT , 1 , 11:47:04 
+ Bharat Goyal , ENTER , 1 , 11:47:19 
+ Bharat Goyal , EXIT , 1 , 11:52:47 
+ Bharat Goyal , ENTER , 1 , 11:52:55 
+ Bharat Goyal , EXIT , 1 , 11:57:13 
+ Snehal , EXIT , 1 , 10:05:43 
+ Snehal , ENTER , 3 , 10:15:49 
+ Snehal , EXIT , 5 , 10:34:01 
+ Snehal , ENTER , 1 , 10:59:33 
+ Snehal , EXIT , 1 , 11:04:41 
+ Snehal , ENTER , 5 , 11:05:29 
+ Snehal , EXIT , 5 , 11:06:49 
+ Snehal , ENTER , 5 , 11:09:21 
+ Snehal , EXIT , 5 , 11:09:52 
+ Snehal , ENTER , 1 , 11:12:01 
+ Snehal , EXIT , 5 , 11:29:17 
+ Snehal , ENTER , 3 , 11:31:33 
+ Snehal , EXIT , 3 , 11:35:09 
+ Snehal , ENTER , 5 , 11:40:06 
+ Thakkar Divyakumar Rameshbhai , ENTER , 5 , 10:04:16 
+ Thakkar Divyakumar Rameshbhai , EXIT , 3 , 10:06:16 
+ Thakkar Divyakumar Rameshbhai , ENTER , 5 , 10:11:47 
+ Thakkar Divyakumar Rameshbhai , EXIT , 1 , 10:20:57 
+ Thakkar Divyakumar Rameshbhai , ENTER , 1 , 10:21:59 
+ Thakkar Divyakumar Rameshbhai , EXIT , 3 , 10:36:20 
+ Thakkar Divyakumar Rameshbhai , ENTER , 1 , 10:46:16 
+ Thakkar Divyakumar Rameshbhai , EXIT , 5 , 11:14:21 
+ Thakkar Divyakumar Rameshbhai , ENTER , 5 , 11:14:38 
+ Thakkar Divyakumar Rameshbhai , EXIT , 5 , 11:19:50 
+ Thakkar Divyakumar Rameshbhai , ENTER , 5 , 11:19:53 
+ Thakkar Divyakumar Rameshbhai , EXIT , 3 , 11:24:53 
+ Thakkar Divyakumar Rameshbhai , ENTER , 5 , 11:36:35 
+ Aryan Chaudhary , EXIT , 3 , 10:51:36 
+ Aryan Chaudhary , ENTER , 5 , 11:02:55 
+ Aryan Chaudhary , EXIT , 5 , 11:05:49 
+ Aryan Chaudhary , ENTER , 5 , 11:07:33 
+ Aryan Chaudhary , EXIT , 5 , 11:07:58 
+ Aryan Chaudhary , ENTER , 5 , 11:13:37 
+ Aryan Chaudhary , EXIT , 1 , 11:19:51 
+ Aryan Chaudhary , ENTER , 3 , 11:55:40 
+ Aryan Chaudhary , EXIT , 5 , 11:57:48 
+ Karan Baboota , EXIT , 5 , 10:03:53 
+ Karan Baboota , ENTER , 3 , 10:07:01 
+ Karan Baboota , EXIT , 3 , 10:08:45 
+ Karan Baboota , ENTER , 5 , 10:25:46 
+ Karan Baboota , EXIT , 3 , 10:34:35 
+ Karan Baboota , ENTER , 3 , 10:40:15 
+ Karan Baboota , EXIT , 1 , 10:45:35 
+ Karan Baboota , ENTER , 3 , 10:52:42 
+ Karan Baboota , EXIT , 3 , 11:07:36 
+ Karan Baboota , ENTER , 1 , 11:08:11 
+ Karan Baboota , EXIT , 3 , 11:14:18 
+ Karan Baboota , ENTER , 5 , 11:27:24 
+ Karan Baboota , EXIT , 3 , 11:36:53 
+ Karan Baboota , ENTER , 1 , 11:37:00 
+ Karan Baboota , EXIT , 1 , 11:38:31 
+ Karan Baboota , ENTER , 3 , 11:38:56 
+ Karan Baboota , EXIT , 5 , 11:51:48 
+ Karan Baboota , ENTER , 5 , 11:52:07 
+ Karan Baboota , EXIT , 5 , 11:55:35 
+ Smiti Singhal , EXIT , 3 , 10:08:41 
+ Smiti Singhal , ENTER , 5 , 10:18:35 
+ Smiti Singhal , EXIT , 1 , 10:32:27 
+ Smiti Singhal , ENTER , 5 , 10:36:16 
+ Smiti Singhal , EXIT , 3 , 10:53:01 
+ Smiti Singhal , ENTER , 3 , 11:00:27 
+ Smiti Singhal , EXIT , 1 , 11:07:00 
+ Smiti Singhal , ENTER , 3 , 11:07:57 
+ Smiti Singhal , EXIT , 3 , 11:18:37 
+ Smiti Singhal , ENTER , 3 , 11:19:10 
+ Smiti Singhal , EXIT , 3 , 11:28:17 
+ Smiti Singhal , ENTER , 3 , 11:45:55 
+ Smiti Singhal , EXIT , 3 , 11:46:59 
+ Shambhavi Sharma , EXIT , 1 , 10:17:15 
+ Shambhavi Sharma , ENTER , 1 , 10:20:11 
+ Shambhavi Sharma , EXIT , 5 , 10:24:56 
+ Shambhavi Sharma , ENTER , 5 , 10:31:45 
+ Shambhavi Sharma , EXIT , 5 , 10:36:10 
+ Shambhavi Sharma , ENTER , 1 , 10:37:20 
+ Shambhavi Sharma , EXIT , 1 , 10:48:24 
+ Shambhavi Sharma , ENTER , 1 , 10:48:51 
+ Shambhavi Sharma , EXIT , 3 , 10:52:05 
+ Shambhavi Sharma , ENTER , 3 , 11:23:53 
+ Shambhavi Sharma , EXIT , 1 , 11:32:29 
+ Shambhavi Sharma , ENTER , 5 , 11:34:31 
+ Shambhavi Sharma , EXIT , 5 , 11:36:28 
+ Shambhavi Sharma , ENTER , 1 , 11:43:01 
+ Rishabh Oberoi , ENTER , 1 , 10:17:45 
+ Rishabh Oberoi , EXIT , 5 , 10:51:42 
+ Rishabh Oberoi , ENTER , 3 , 10:58:19 
+ Rishabh Oberoi , EXIT , 1 , 11:03:06 
+ Rishabh Oberoi , ENTER , 5 , 11:27:22 
+ Rishabh Oberoi , EXIT , 5 , 11:49:37 
+ Kartik Gupta , ENTER , 1 , 10:00:27 
+ Kartik Gupta , EXIT , 1 , 10:05:56 
+ Kartik Gupta , ENTER , 3 , 10:16:19 
+ Kartik Gupta , EXIT , 5 , 10:17:41 
+ Kartik Gupta , ENTER , 3 , 10:31:56 
+ Kartik Gupta , EXIT , 1 , 10:38:14 
+ Kartik Gupta , ENTER , 5 , 10:48:57 
+ Kartik Gupta , EXIT , 5 , 10:49:57 
+ Kartik Gupta , ENTER , 3 , 11:03:51 
+ Kartik Gupta , EXIT , 5 , 11:06:35 
+ Kartik Gupta , ENTER , 1 , 11:13:11 
+ Kartik Gupta , EXIT , 1 , 11:13:27 
+ Kartik Gupta , ENTER , 3 , 11:15:41 
+ Kartik Gupta , EXIT , 3 , 11:41:16 
+ Sushil Kumar , EXIT , 1 , 10:03:08 
+ Sushil Kumar , ENTER , 1 , 10:07:11 
+ Sushil Kumar , EXIT , 3 , 10:10:23 
+ Sushil Kumar , ENTER , 5 , 10:14:17 
+ Sushil Kumar , EXIT , 5 , 10:15:23 
+ Sushil Kumar , ENTER , 1 , 10:16:54 
+ Sushil Kumar , EXIT , 5 , 10:23:46 
+ Sushil Kumar , ENTER , 3 , 10:26:42 
+ Sushil Kumar , EXIT , 1 , 10:27:21 
+ Sushil Kumar , ENTER , 1 , 10:28:22 
+ Sushil Kumar , EXIT , 5 , 10:35:14 
+ Sushil Kumar , ENTER , 1 , 10:43:56 
+ Sushil Kumar , EXIT , 1 , 10:52:07 
+ Sushil Kumar , ENTER , 1 , 10:58:47 
+ Sushil Kumar , EXIT , 3 , 11:12:16 
+ Sushil Kumar , ENTER , 5 , 11:30:33 
+ Sushil Kumar , EXIT , 1 , 11:52:23 
+ Sushil Kumar , ENTER , 3 , 11:59:23 
+ Gayam Shivakanth Reddy , EXIT , 5 , 10:29:32 
+ Gayam Shivakanth Reddy , ENTER , 3 , 10:29:49 
+ Gayam Shivakanth Reddy , EXIT , 1 , 10:42:25 
+ Gayam Shivakanth Reddy , ENTER , 3 , 10:49:41 
+ Gayam Shivakanth Reddy , EXIT , 1 , 10:59:43 
+ Gayam Shivakanth Reddy , ENTER , 5 , 11:08:28 
+ Gayam Shivakanth Reddy , EXIT , 1 , 11:12:46 
+ Gayam Shivakanth Reddy , ENTER , 3 , 11:34:09 
+ Gayam Shivakanth Reddy , EXIT , 5 , 11:35:56 
+ Gayam Shivakanth Reddy , ENTER , 1 , 11:47:08 
+ Gayam Shivakanth Reddy , EXIT , 5 , 11:48:36 
+ Gayam Shivakanth Reddy , ENTER , 5 , 11:55:39 
+ Gayam Shivakanth Reddy , EXIT , 1 , 11:57:54 
+ Manas , ENTER , 3 , 10:11:29 
+ Manas , EXIT , 5 , 10:12:29 
+ Manas , ENTER , 5 , 10:25:08 
+ Manas , EXIT , 5 , 10:34:05 
+ Manas , ENTER , 5 , 10:51:42 
+ Manas , EXIT , 5 , 10:53:46 
+ Manas , ENTER , 3 , 10:57:58 
+ Manas , EXIT , 1 , 11:03:12 
+ Manas , ENTER , 3 , 11:18:43 
+ Manas , EXIT , 3 , 11:19:09 
+ Manas , ENTER , 1 , 11:22:12 
+ Manas , EXIT , 3 , 11:23:13 
+ Manas , ENTER , 1 , 11:23:56 
+ Manas , EXIT , 1 , 11:31:01 
+ Manas , ENTER , 1 , 11:31:21 
+ Manas , EXIT , 5 , 11:34:09 
+ Manas , ENTER , 1 , 11:42:51 
+ Manas , EXIT , 3 , 11:57:57 
+ Manas , ENTER , 5 , 11:58:42 
+ Manas , EXIT , 1 , 11:58:54 
+ Manas , ENTER , 5 , 11:59:37 
+ Aditya Raj Singh , ENTER , 1 , 10:22:21 
+ Aditya Raj Singh , EXIT , 1 , 10:25:24 
+ Aditya Raj Singh , ENTER , 5 , 10:32:03 
+ Aditya Raj Singh , EXIT , 1 , 10:43:16 
+ Aditya Raj Singh , ENTER , 3 , 10:54:45 
+ Aditya Raj Singh , EXIT , 1 , 10:57:39 
+ Aditya Raj Singh , ENTER , 3 , 11:14:35 
+ Aditya Raj Singh , EXIT , 3 , 11:29:20 
+ Aditya Raj Singh , ENTER , 1 , 11:29:34 
+ Aditya Raj Singh , EXIT , 1 , 11:38:50 
+ Aditya Raj Singh , ENTER , 3 , 11:43:21 
+ Aditya Raj Singh , EXIT , 1 , 11:44:57 
+ Aditya Raj Singh , ENTER , 5 , 11:48:26 
+ Swaib Ilias Mazumder , EXIT , 1 , 10:03:22 
+ Swaib Ilias Mazumder , ENTER , 1 , 10:03:42 
+ Swaib Ilias Mazumder , EXIT , 5 , 10:12:00 
+ Swaib Ilias Mazumder , ENTER , 1 , 10:19:25 
+ Swaib Ilias Mazumder , EXIT , 1 , 10:20:41 
+ Swaib Ilias Mazumder , ENTER , 1 , 10:21:54 
+ Swaib Ilias Mazumder , EXIT , 1 , 10:26:06 
+ Swaib Ilias Mazumder , ENTER , 3 , 10:32:26 
+ Swaib Ilias Mazumder , EXIT , 5 , 10:40:17 
+ Swaib Ilias Mazumder , ENTER , 1 , 10:43:43 
+ Swaib Ilias Mazumder , EXIT , 1 , 11:03:09 
+ Swaib Ilias Mazumder , ENTER , 1 , 11:05:16 
+ Swaib Ilias Mazumder , EXIT , 1 , 11:22:50 
+ Swaib Ilias Mazumder , ENTER , 5 , 11:35:14 
+ Vamshi Krishna Vannekala , ENTER , 5 , 10:07:33 
+ Vamshi Krishna Vannekala , EXIT , 3 , 10:08:16 
+ Vamshi Krishna Vannekala , ENTER , 5 , 10:11:21 
+ Vamshi Krishna Vannekala , EXIT , 1 , 10:12:10 
+ Vamshi Krishna Vannekala , ENTER , 5 , 10:13:23 
+ Vamshi Krishna Vannekala , EXIT , 3 , 10:21:02 
+ Vamshi Krishna Vannekala , ENTER , 3 , 10:35:59 
+ Vamshi Krishna Vannekala , EXIT , 1 , 10:41:00 
+ Vamshi Krishna Vannekala , ENTER , 5 , 10:45:05 
+ Vamshi Krishna Vannekala , EXIT , 5 , 11:11:47 
+ Vamshi Krishna Vannekala , ENTER , 5 , 11:16:31 
+ Vamshi Krishna Vannekala , EXIT , 1 , 11:17:51 
+ Vamshi Krishna Vannekala , ENTER , 1 , 11:18:04 
+ Vamshi Krishna Vannekala , EXIT , 5 , 11:38:47 
+ Vamshi Krishna Vannekala , ENTER , 5 , 11:48:26 
+ Vamshi Krishna Vannekala , EXIT , 1 , 11:54:50 
+ Anuj Yadav , ENTER , 3 , 10:15:17 
+ Anuj Yadav , EXIT , 5 , 10:16:15 
+ Anuj Yadav , ENTER , 5 , 10:21:32 
+ Anuj Yadav , EXIT , 1 , 10:35:38 
+ Anuj Yadav , ENTER , 3 , 10:45:59 
+ Anuj Yadav , EXIT , 3 , 11:10:23 
+ Anuj Yadav , ENTER , 5 , 11:13:16 
+ Anuj Yadav , EXIT , 3 , 11:13:57 
+ Anuj Yadav , ENTER , 3 , 11:17:26 
+ Anuj Yadav , EXIT , 3 , 11:22:06 
+ Anuj Yadav , ENTER , 3 , 11:44:54 
+ Anuj Yadav , EXIT , 5 , 11:52:55 
+ Anuj Yadav , ENTER , 5 , 11:55:30 
+ Shraman Jain , ENTER , 3 , 10:00:20 
+ Shraman Jain , EXIT , 1 , 10:04:01 
+ Shraman Jain , ENTER , 1 , 10:14:13 
+ Shraman Jain , EXIT , 5 , 10:33:29 
+ Shraman Jain , ENTER , 5 , 10:46:13 
+ Shraman Jain , EXIT , 5 , 10:46:20 
+ Shraman Jain , ENTER , 5 , 10:47:56 
+ Shraman Jain , EXIT , 3 , 11:03:35 
+ Shraman Jain , ENTER , 3 , 11:06:48 
+ Shraman Jain , EXIT , 3 , 11:22:04 
+ Shraman Jain , ENTER , 3 , 11:24:50 
+ Shraman Jain , EXIT , 5 , 11:26:46 
+ Shraman Jain , ENTER , 5 , 11:27:35 
+ Shraman Jain , EXIT , 1 , 11:42:54 
+ Shraman Jain , ENTER , 5 , 11:50:13 
+ Vibhor Agarwal , EXIT , 3 , 10:21:01 
+ Vibhor Agarwal , ENTER , 5 , 10:35:04 
+ Vibhor Agarwal , EXIT , 5 , 10:42:32 
+ Vibhor Agarwal , ENTER , 5 , 10:49:42 
+ Vibhor Agarwal , EXIT , 1 , 10:51:17 
+ Vibhor Agarwal , ENTER , 1 , 10:51:48 
+ Vibhor Agarwal , EXIT , 3 , 10:57:09 
+ Vibhor Agarwal , ENTER , 3 , 10:57:58 
+ Vibhor Agarwal , EXIT , 3 , 11:01:03 
+ Vibhor Agarwal , ENTER , 5 , 11:03:43 
+ Vibhor Agarwal , EXIT , 1 , 11:11:59 
+ Vibhor Agarwal , ENTER , 1 , 11:27:41 
+ Vibhor Agarwal , EXIT , 3 , 11:29:52 
+ Vibhor Agarwal , ENTER , 3 , 11:38:12 
+ Vibhor Agarwal , EXIT , 1 , 11:40:50 
+ Vibhor Agarwal , ENTER , 5 , 11:45:24 
+ Vibhor Agarwal , EXIT , 5 , 11:51:04 
+ Vibhor Agarwal , ENTER , 1 , 11:53:22 
+ Vibhor Agarwal , EXIT , 1 , 11:58:30 
+ Surbhi Goyal , ENTER , 5 , 10:04:37 
+ Surbhi Goyal , EXIT , 5 , 10:07:29 
+ Surbhi Goyal , ENTER , 1 , 10:09:12 
+ Surbhi Goyal , EXIT , 1 , 10:19:37 
+ Surbhi Goyal , ENTER , 5 , 10:34:02 
+ Surbhi Goyal , EXIT , 3 , 10:34:48 
+ Surbhi Goyal , ENTER , 5 , 10:47:27 
+ Surbhi Goyal , EXIT , 5 , 10:50:37 
+ Surbhi Goyal , ENTER , 5 , 10:55:54 
+ Surbhi Goyal , EXIT , 5 , 10:57:13 
+ Surbhi Goyal , ENTER , 5 , 10:58:36 
+ Surbhi Goyal , EXIT , 1 , 11:00:04 
+ Surbhi Goyal , ENTER , 1 , 11:04:46 
+ Surbhi Goyal , EXIT , 5 , 11:07:58 
+ Surbhi Goyal , ENTER , 1 , 11:14:56 
+ Surbhi Goyal , EXIT , 3 , 11:29:34 
+ Surbhi Goyal , ENTER , 3 , 11:29:49 
+ Surbhi Goyal , EXIT , 1 , 11:31:51 
+ Surbhi Goyal , ENTER , 5 , 11:32:53 
+ Surbhi Goyal , EXIT , 1 , 11:33:26 
+ Surbhi Goyal , ENTER , 5 , 11:34:43 
+ Shashank Dargar , EXIT , 5 , 10:05:15 
+ Shashank Dargar , ENTER , 3 , 10:05:26 
+ Shashank Dargar , EXIT , 3 , 10:12:51 
+ Shashank Dargar , ENTER , 5 , 10:14:28 
+ Shashank Dargar , EXIT , 3 , 10:14:37 
+ Shashank Dargar , ENTER , 3 , 10:26:37 
+ Shashank Dargar , EXIT , 1 , 10:47:11 
+ Shashank Dargar , ENTER , 5 , 10:51:08 
+ Shashank Dargar , EXIT , 1 , 11:00:38 
+ Shashank Dargar , ENTER , 1 , 11:48:42 
+ Shashank Dargar , EXIT , 1 , 11:49:03 
+ Shashank Dargar , ENTER , 3 , 11:50:21 
+ Shashank Dargar , EXIT , 3 , 11:50:41 
+ Shashank Dargar , ENTER , 1 , 11:51:12 
+ Shashank Dargar , EXIT , 1 , 11:57:50 
+ Param Shah , EXIT , 3 , 10:03:32 
+ Param Shah , ENTER , 1 , 10:07:20 
+ Param Shah , EXIT , 1 , 10:16:48 
+ Param Shah , ENTER , 5 , 10:19:33 
+ Param Shah , EXIT , 5 , 10:20:12 
+ Param Shah , ENTER , 5 , 10:22:02 
+ Param Shah , EXIT , 1 , 10:32:54 
+ Param Shah , ENTER , 5 , 10:36:30 
+ Param Shah , EXIT , 5 , 11:02:40 
+ Param Shah , ENTER , 5 , 11:28:21 
+ Param Shah , EXIT , 5 , 11:34:47 
+ Param Shah , ENTER , 1 , 11:40:48 
+ Param Shah , EXIT , 5 , 11:49:43 
+ Param Shah , ENTER , 3 , 11:50:23 
+ Param Shah , EXIT , 3 , 11:55:09 
+ Param Shah , ENTER , 1 , 11:58:35 
+ Swatantra kumar nigam , EXIT , 3 , 10:01:24 
+ Swatantra kumar nigam , ENTER , 5 , 10:02:28 
+ Swatantra kumar nigam , EXIT , 5 , 10:04:02 
+ Swatantra kumar nigam , ENTER , 5 , 10:09:47 
+ Swatantra kumar nigam , EXIT , 3 , 10:28:01 
+ Swatantra kumar nigam , ENTER , 3 , 10:32:11 
+ Swatantra kumar nigam , EXIT , 5 , 10:37:28 
+ Swatantra kumar nigam , ENTER , 5 , 10:43:52 
+ Swatantra kumar nigam , EXIT , 1 , 10:50:44 
+ Swatantra kumar nigam , ENTER , 3 , 11:07:18 
+ Swatantra kumar nigam , EXIT , 3 , 11:12:32 
+ Swatantra kumar nigam , ENTER , 3 , 11:25:26 
+ Swatantra kumar nigam , EXIT , 5 , 11:32:11 
+ Swatantra kumar nigam , ENTER , 1 , 11:39:08 
+ Ujjwal Garg , EXIT , 5 , 10:20:32 
+ Ujjwal Garg , ENTER , 1 , 10:40:56 
+ Ujjwal Garg , EXIT , 3 , 10:49:58 
+ Ujjwal Garg , ENTER , 1 , 10:50:28 
+ Ujjwal Garg , EXIT , 3 , 10:52:09 
+ Ujjwal Garg , ENTER , 1 , 10:53:06 
+ Ujjwal Garg , EXIT , 1 , 11:09:49 
+ Ujjwal Garg , ENTER , 3 , 11:14:25 
+ Ujjwal Garg , EXIT , 1 , 11:18:14 
+ Ujjwal Garg , ENTER , 3 , 11:19:34 
+ Ujjwal Garg , EXIT , 1 , 11:44:41 
+ Ujjwal Garg , ENTER , 5 , 11:48:51 
+ Swati Jha , ENTER , 1 , 10:05:17 
+ Swati Jha , EXIT , 5 , 10:21:11 
+ Swati Jha , ENTER , 1 , 10:29:17 
+ Swati Jha , EXIT , 1 , 10:38:14 
+ Swati Jha , ENTER , 1 , 10:39:22 
+ Swati Jha , EXIT , 3 , 10:42:27 
+ Swati Jha , ENTER , 3 , 10:42:59 
+ Swati Jha , EXIT , 5 , 10:49:31 
+ Swati Jha , ENTER , 5 , 11:03:01 
+ Swati Jha , EXIT , 5 , 11:17:15 
+ Swati Jha , ENTER , 3 , 11:19:48 
+ Swati Jha , EXIT , 5 , 11:33:05 
+ Swati Jha , ENTER , 5 , 11:48:37 
+ Ayush Srivastava , ENTER , 3 , 10:00:11 
+ Ayush Srivastava , EXIT , 3 , 10:03:52 
+ Ayush Srivastava , ENTER , 1 , 10:14:02 
+ Ayush Srivastava , EXIT , 5 , 10:29:31 
+ Ayush Srivastava , ENTER , 3 , 10:36:22 
+ Ayush Srivastava , EXIT , 1 , 10:39:10 
+ Ayush Srivastava , ENTER , 5 , 10:39:14 
+ Ayush Srivastava , EXIT , 1 , 10:44:04 
+ Ayush Srivastava , ENTER , 1 , 10:45:27 
+ Ayush Srivastava , EXIT , 5 , 10:53:37 
+ Ayush Srivastava , ENTER , 3 , 10:58:57 
+ Ayush Srivastava , EXIT , 3 , 11:04:58 
+ Ayush Srivastava , ENTER , 3 , 11:07:38 
+ Ayush Srivastava , EXIT , 5 , 11:07:56 
+ Ayush Srivastava , ENTER , 3 , 11:33:47 
+ Ayush Srivastava , EXIT , 3 , 11:42:24 
+ Ayush Srivastava , ENTER , 1 , 11:43:13 
+ Ayush Srivastava , EXIT , 5 , 11:50:07 
+ Mohammed Kaif , ENTER , 5 , 10:02:14 
+ Mohammed Kaif , EXIT , 5 , 10:03:15 
+ Mohammed Kaif , ENTER , 5 , 10:04:18 
+ Mohammed Kaif , EXIT , 1 , 10:12:09 
+ Mohammed Kaif , ENTER , 3 , 10:12:30 
+ Mohammed Kaif , EXIT , 5 , 10:20:13 
+ Mohammed Kaif , ENTER , 3 , 10:28:50 
+ Mohammed Kaif , EXIT , 1 , 10:48:26 
+ Mohammed Kaif , ENTER , 5 , 10:54:02 
+ Mohammed Kaif , EXIT , 1 , 11:05:05 
+ Mohammed Kaif , ENTER , 1 , 11:09:33 
+ Mohammed Kaif , EXIT , 1 , 11:12:58 
+ Mohammed Kaif , ENTER , 3 , 11:19:07 
+ Mohammed Kaif , EXIT , 1 , 11:22:20 
+ Mohammed Kaif , ENTER , 5 , 11:23:21 
+ Mohammed Kaif , EXIT , 1 , 11:26:51 
+ Mohammed Kaif , ENTER , 1 , 11:30:57 
+ Mohammed Kaif , EXIT , 1 , 11:31:17 
+ Mohammed Kaif , ENTER , 5 , 11:40:14 
+ Mohammed Kaif , EXIT , 1 , 11:59:08 
+ Yuvraj Singh , ENTER , 5 , 10:03:40 
+ Yuvraj Singh , EXIT , 5 , 10:05:35 
+ Yuvraj Singh , ENTER , 3 , 10:09:44 
+ Yuvraj Singh , EXIT , 1 , 10:20:38 
+ Yuvraj Singh , ENTER , 1 , 10:30:09 
+ Yuvraj Singh , EXIT , 3 , 10:36:06 
+ Yuvraj Singh , ENTER , 3 , 10:37:09 
+ Yuvraj Singh , EXIT , 1 , 11:03:54 
+ Yuvraj Singh , ENTER , 3 , 11:14:41 
+ Yuvraj Singh , EXIT , 1 , 11:26:16 
+ Yuvraj Singh , ENTER , 3 , 11:33:22 
+ Yuvraj Singh , EXIT , 1 , 11:34:40 
+ Yuvraj Singh , ENTER , 3 , 11:40:58 
+ Yuvraj Singh , EXIT , 3 , 11:41:35 
+ Rishika Jain , ENTER , 5 , 10:06:36 
+ Rishika Jain , EXIT , 3 , 10:18:45 
+ Rishika Jain , ENTER , 3 , 10:22:26 
+ Rishika Jain , EXIT , 1 , 10:40:59 
+ Rishika Jain , ENTER , 3 , 10:47:27 
+ Rishika Jain , EXIT , 1 , 10:51:15 
+ Rishika Jain , ENTER , 3 , 11:04:40 
+ Rishika Jain , EXIT , 5 , 11:17:05 
+ Rishika Jain , ENTER , 1 , 11:29:14 
+ Rishika Jain , EXIT , 5 , 11:30:53 
+ Rishika Jain , ENTER , 5 , 11:40:45 
+ Rishika Jain , EXIT , 3 , 11:48:56 
+ Rishika Jain , ENTER , 5 , 11:50:45 
+ Rishika Jain , EXIT , 1 , 11:51:35 
+ Rishika Jain , ENTER , 3 , 11:53:38 
+ Rishika Jain , EXIT , 5 , 11:58:25 
+ Sumit Kumar , EXIT , 1 , 10:02:43 
+ Sumit Kumar , ENTER , 5 , 10:18:52 
+ Sumit Kumar , EXIT , 5 , 10:34:02 
+ Sumit Kumar , ENTER , 1 , 10:35:21 
+ Sumit Kumar , EXIT , 3 , 10:49:40 
+ Sumit Kumar , ENTER , 5 , 10:52:01 
+ Sumit Kumar , EXIT , 5 , 11:26:16 
+ Sumit Kumar , ENTER , 1 , 11:41:39 
+ Sumit Kumar , EXIT , 3 , 11:43:59 
+ Dhruv Mishra , EXIT , 3 , 10:29:45 
+ Dhruv Mishra , ENTER , 5 , 10:35:48 
+ Dhruv Mishra , EXIT , 1 , 10:38:57 
+ Dhruv Mishra , ENTER , 1 , 10:46:48 
+ Dhruv Mishra , EXIT , 5 , 10:46:54 
+ Dhruv Mishra , ENTER , 5 , 10:55:50 
+ Dhruv Mishra , EXIT , 1 , 11:02:25 
+ Dhruv Mishra , ENTER , 5 , 11:04:06 
+ Dhruv Mishra , EXIT , 1 , 11:44:15 
+ Dhruv Mishra , ENTER , 5 , 11:46:03 
+ Dhruv Mishra , EXIT , 1 , 11:51:20 
+ Dhruv Mishra , ENTER , 1 , 11:54:01 
+ Dhruv Mishra , EXIT , 3 , 11:54:54 
+ Dhruv Mishra , ENTER , 5 , 11:58:59 
+ Ankita Mahato , EXIT , 3 , 10:04:11 
+ Ankita Mahato , ENTER , 3 , 10:04:17 
+ Ankita Mahato , EXIT , 3 , 10:09:56 
+ Ankita Mahato , ENTER , 3 , 10:10:24 
+ Ankita Mahato , EXIT , 3 , 10:15:37 
+ Ankita Mahato , ENTER , 5 , 10:17:41 
+ Ankita Mahato , EXIT , 5 , 10:18:19 
+ Ankita Mahato , ENTER , 3 , 10:23:48 
+ Ankita Mahato , EXIT , 1 , 10:28:01 
+ Ankita Mahato , ENTER , 1 , 10:42:32 
+ Ankita Mahato , EXIT , 3 , 10:57:19 
+ Ankita Mahato , ENTER , 3 , 10:58:04 
+ Ankita Mahato , EXIT , 3 , 11:01:40 
+ Ankita Mahato , ENTER , 1 , 11:03:33 
+ Ankita Mahato , EXIT , 1 , 11:06:58 
+ Ankita Mahato , ENTER , 3 , 11:16:15 
+ Ankita Mahato , EXIT , 5 , 11:36:37 
+ Ankita Mahato , ENTER , 1 , 11:49:19 
+ Ankita Mahato , EXIT , 1 , 11:53:34 
+ Manav Saini , ENTER , 1 , 10:10:30 
+ Manav Saini , EXIT , 3 , 10:16:53 
+ Manav Saini , ENTER , 3 , 10:18:57 
+ Manav Saini , EXIT , 5 , 10:26:24 
+ Manav Saini , ENTER , 1 , 10:28:51 
+ Manav Saini , EXIT , 5 , 10:33:16 
+ Manav Saini , ENTER , 3 , 10:38:20 
+ Manav Saini , EXIT , 5 , 11:03:14 
+ Manav Saini , ENTER , 5 , 11:20:12 
+ Manav Saini , EXIT , 5 , 11:57:33 
